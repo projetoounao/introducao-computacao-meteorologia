@@ -54,10 +54,8 @@ O foco não é copiar integralmente o curso, mas registrar:
 | Atividade | Caso | Descrição | Pasta |
 |---|---|---|---|
 | Atividade 1 | CASO-01 — Cartilha digital e publicação Web | Enriquecimento digital da cartilha *Vamos conversar?*, com publicação em flipbook, componentes Web, links complementares e post de processo. | [`CASO-01-cartilha-computacao`](CASO-01-cartilha-computacao/) |
-| Atividade 2 | CASO-02 — Atividade de Modelagem Psicossocial | Modelagem de riscos psicossociais no trabalho, com uso de variáveis numéricas, cenário matemático e proposta de calculadora/interação computacional. | [`CASO-02-modelagem-psicossocial`](CASO-02-modelagem-psicossocial/) |
-| Atividade 3 | CASO-03 — Oficina OAF com Davincente | Projeto **Mapa Vivo do Patrimônio de Cuité**, a partir da cartilha *Educação Patrimonial de Cuité: Conhecer para Preservar*, articulando encarte impresso, personagens, QR Code, Web App e mediação territorial. | [`CASO-02-mapa-vivo-patrimonio-cuite`](CASO-02-mapa-vivo-patrimonio-cuite/) |
-
-> Observação: a pasta atualmente chamada `CASO-02-mapa-vivo-patrimonio-cuite` registra a Atividade 3. A renomeação para `CASO-03-mapa-vivo-patrimonio-cuite` pode ser feita em etapa posterior, se for conveniente preservar a numeração das atividades no nome das pastas.
+| Atividade extra | Modelagem Psicossocial | Modelagem de riscos psicossociais no trabalho, com uso de variáveis numéricas, cenário matemático e proposta de calculadora/interação computacional. | [`ATIVIDADE-EXTRA-modelagem-psicossocial`](ATIVIDADE-EXTRA-modelagem-psicossocial/) |
+| Atividade 2 | CASO-02 — Oficina OAF com Davincente | Projeto **Mapa Vivo do Patrimônio de Cuité**, a partir da cartilha *Educação Patrimonial de Cuité: Conhecer para Preservar*, articulando encarte impresso, personagens, QR Code, Web App e mediação territorial. | [`CASO-02-mapa-vivo-patrimonio-cuite`](CASO-02-mapa-vivo-patrimonio-cuite/) |
 
 ## 5. Atividade 1 / CASO-01 — Cartilha digital e publicação Web
 
@@ -96,9 +94,9 @@ https://mc.xyz.mat.br/2026/07/28/atividade-cartilha-vamos-conversar-computacao/
 - WordPress;
 - GitHub.
 
-## 6. Atividade 2 / CASO-02 — Atividade de Modelagem Psicossocial
+## 6. Atividade extra — Modelagem Psicossocial
 
-O CASO-02 foi organizado a partir da **Atividade de Modelagem Psicossocial**, vinculada à Atividade 2 — Modelagem Computacional de Problemas, com o tema:
+A atividade extra registra uma proposta de **modelagem psicossocial**, vinculada ao exercício de Modelagem Computacional de Problemas, com o tema:
 
 ```text
 Calculando os riscos psicossociais da sua jornada de trabalho
@@ -119,8 +117,8 @@ Elementos identificados nos materiais:
 
 Arquivos principais:
 
-- [`CASO-02-modelagem-psicossocial/README.md`](CASO-02-modelagem-psicossocial/README.md);
-- [`CASO-02-modelagem-psicossocial/registro-do-caso.md`](CASO-02-modelagem-psicossocial/registro-do-caso.md).
+- [`ATIVIDADE-EXTRA-modelagem-psicossocial/README.md`](ATIVIDADE-EXTRA-modelagem-psicossocial/README.md);
+- [`ATIVIDADE-EXTRA-modelagem-psicossocial/registro-do-caso.md`](ATIVIDADE-EXTRA-modelagem-psicossocial/registro-do-caso.md).
 
 Materiais relacionados:
 
@@ -132,9 +130,9 @@ Materiais relacionados:
 - `Roteiro Modelagem Computacional 2026.pdf`;
 - `Executive Summary SafeDay2026 Portuguese O ambiente psicossocial de trabalho.pdf`.
 
-## 7. Atividade 3 / CASO-03 — Oficina OAF com Davincente
+## 7. Atividade 2 / CASO-02 — Oficina OAF com Davincente
 
-O CASO-03 registra a atividade **Criando com Davincente**, na qual foi desenvolvido o projeto OAF **Mapa Vivo do Patrimônio de Cuité**.
+O CASO-02 registra a atividade **Criando com Davincente**, na qual foi desenvolvido o projeto OAF **Mapa Vivo do Patrimônio de Cuité**.
 
 A proposta parte da cartilha *Educação Patrimonial de Cuité: Conhecer para Preservar*, especialmente do encarte impresso com mapa dos bens materiais tombados de Cuité e dos personagens Coytelino e Tarairiú.
 
@@ -183,16 +181,15 @@ Esse arquivo distingue ferramentas estudadas, usadas, propostas ou apenas refere
 - [`SOFTWARES_E_FERRAMENTAS.md`](SOFTWARES_E_FERRAMENTAS.md) — inventário de softwares, plataformas e tecnologias.
 - [`RIGHTS_AND_PROVENANCE.md`](RIGHTS_AND_PROVENANCE.md) — política de direitos e proveniência, mantida como apoio quando necessário.
 - [`CASO-01-cartilha-computacao/README.md`](CASO-01-cartilha-computacao/README.md) — índice do CASO-01.
-- [`CASO-02-modelagem-psicossocial/README.md`](CASO-02-modelagem-psicossocial/README.md) — índice da Atividade 2 / CASO-02.
-- [`CASO-02-mapa-vivo-patrimonio-cuite/README.md`](CASO-02-mapa-vivo-patrimonio-cuite/README.md) — índice atual da Atividade 3 / CASO-03.
+- [`ATIVIDADE-EXTRA-modelagem-psicossocial/README.md`](ATIVIDADE-EXTRA-modelagem-psicossocial/README.md) — índice da atividade extra de Modelagem Psicossocial.
+- [`CASO-02-mapa-vivo-patrimonio-cuite/README.md`](CASO-02-mapa-vivo-patrimonio-cuite/README.md) — índice da Oficina OAF com Davincente.
 
 ## 11. O que ainda será complementado
 
-- eventual renomeação da pasta da Oficina OAF para alinhar com a numeração CASO-03;
-- publicação dos arquivos finais da Oficina OAF na plataforma FelizCidade;
-- envio dos links ao professor;
 - revisão final de links e nomenclaturas;
-- complementação de materiais do curso, sem republicar arquivos protegidos ou não autorizados.
+- eventual limpeza da pasta antiga `CASO-02-modelagem-psicossocial`, após autorização explícita;
+- complementação de materiais do curso, sem republicar arquivos protegidos ou não autorizados;
+- continuidade do Mapa Vivo como documentação pós-entrega, sem reabrir a entrega acadêmica já realizada.
 
 ## Regra de publicação
 
