@@ -29,6 +29,19 @@ standards/academico/MC2-MDL_README_REPOSITORIO_DISCIPLINA.md
 
 Portanto, este repositório não deve manter o modelo geral como documento próprio. Ele deve aplicar o modelo ao caso concreto da disciplina **Introdução à Computação**.
 
+## Política de direitos e proveniência
+
+Este repositório possui uma política própria de direitos, permissões e proveniência:
+
+- [`RIGHTS_AND_PROVENANCE.md`](RIGHTS_AND_PROVENANCE.md) — regra aplicada para distinguir material autoral, material de disciplina, material institucional, material de terceiros, material público, material reservado e material apenas referenciado.
+
+Regra central:
+
+```text
+O repositório público não é um espelho da pasta de estudo.
+Ele é uma vitrine acadêmica curada, documentada e responsável.
+```
+
 ## Casos organizados até agora
 
 | Caso | Descrição | Pasta |
@@ -73,6 +86,7 @@ objeto editorial → escolha humana → mediação digital → território → o
 ## Arquivos principais
 
 - [`CONTINUIDADE.md`](CONTINUIDADE.md) — estado atual e próximos passos.
+- [`RIGHTS_AND_PROVENANCE.md`](RIGHTS_AND_PROVENANCE.md) — política de direitos, permissões e proveniência.
 - [`CASO-01-cartilha-computacao/README.md`](CASO-01-cartilha-computacao/README.md) — índice do CASO-01.
 - [`CASO-02-mapa-vivo-patrimonio-cuite/README.md`](CASO-02-mapa-vivo-patrimonio-cuite/README.md) — índice do CASO-02.
 - [`CASO-02-mapa-vivo-patrimonio-cuite/projeto-oaf-mapa-vivo-patrimonio-cuite.md`](CASO-02-mapa-vivo-patrimonio-cuite/projeto-oaf-mapa-vivo-patrimonio-cuite.md) — Projeto OAF de entrega.
