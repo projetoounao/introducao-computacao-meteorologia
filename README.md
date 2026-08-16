@@ -10,21 +10,7 @@
 
 Este repositório documenta o percurso de estudos e produção da disciplina **Introdução à Ciência da Computação**, vinculada ao curso de **Bacharelado em Meteorologia da UFCG**.
 
-## 1. Dados da disciplina
-
-| Campo | Informação |
-|---|---|
-| Disciplina | Introdução à Ciência da Computação |
-| Tipo | Obrigatório |
-| Unidade | UASC/CEEI/UFCG |
-| Pré-requisito | Não possui |
-| Carga horária | 60 horas |
-| Créditos | 04 |
-| Professor | Prof. Dr. Marcelo de Barros |
-| Curso | Bacharelado em Meteorologia — UFCG |
-| Período | 2026.1 |
-
-## 2. Ementa
+## 1. Ementa
 
 Conforme a ementa da disciplina, o componente curricular aborda:
 
@@ -38,7 +24,7 @@ Operações de controle.
 Estudo de uma linguagem algorítmica de alto nível.
 ```
 
-## 3. Objetivos da disciplina
+## 2. Objetivos da disciplina
 
 Ao final do componente curricular, o estudante deve ser capaz de:
 
@@ -49,7 +35,7 @@ Ao final do componente curricular, o estudante deve ser capaz de:
 - desenvolver e testar algoritmos;
 - projetar, elaborar e depurar soluções de problemas usando programas em linguagem algorítmica de alto nível.
 
-## 4. Recorte autoral deste repositório
+## 3. Recorte autoral deste repositório
 
 Neste repositório, a disciplina foi documentada a partir de atividades práticas que relacionam pensamento computacional, modelagem de problemas, publicação digital, educação, território, Objetivos de Desenvolvimento Sustentável e criação figital.
 
@@ -63,7 +49,7 @@ O foco não é copiar integralmente o curso, mas registrar:
 - entregas públicas ou acadêmicas;
 - continuidade dos estudos.
 
-## 5. Atividades e casos organizados
+## 4. Atividades e casos organizados
 
 | Atividade | Caso | Descrição | Pasta |
 |---|---|---|---|
@@ -73,7 +59,7 @@ O foco não é copiar integralmente o curso, mas registrar:
 
 > Observação: a pasta atualmente chamada `CASO-02-mapa-vivo-patrimonio-cuite` registra a Atividade 3. A renomeação para `CASO-03-mapa-vivo-patrimonio-cuite` pode ser feita em etapa posterior, se for conveniente preservar a numeração das atividades no nome das pastas.
 
-## 6. Atividade 1 / CASO-01 — Cartilha digital e publicação Web
+## 5. Atividade 1 / CASO-01 — Cartilha digital e publicação Web
 
 O CASO-01 registra uma atividade de enriquecimento digital da cartilha *Vamos conversar?*, material voltado ao enfrentamento da violência doméstica e familiar contra as mulheres.
 
@@ -110,7 +96,7 @@ https://mc.xyz.mat.br/2026/07/28/atividade-cartilha-vamos-conversar-computacao/
 - WordPress;
 - GitHub.
 
-## 7. Atividade 2 / CASO-02 — Atividade de Modelagem Psicossocial
+## 6. Atividade 2 / CASO-02 — Atividade de Modelagem Psicossocial
 
 O CASO-02 foi organizado a partir da **Atividade de Modelagem Psicossocial**, vinculada à Atividade 2 — Modelagem Computacional de Problemas, com o tema:
 
@@ -146,7 +132,7 @@ Materiais relacionados:
 - `Roteiro Modelagem Computacional 2026.pdf`;
 - `Executive Summary SafeDay2026 Portuguese O ambiente psicossocial de trabalho.pdf`.
 
-## 8. Atividade 3 / CASO-03 — Oficina OAF com Davincente
+## 7. Atividade 3 / CASO-03 — Oficina OAF com Davincente
 
 O CASO-03 registra a atividade **Criando com Davincente**, na qual foi desenvolvido o projeto OAF **Mapa Vivo do Patrimônio de Cuité**.
 
@@ -165,7 +151,7 @@ Arquivos principais:
 - [`CASO-02-mapa-vivo-patrimonio-cuite/registro-do-caso.md`](CASO-02-mapa-vivo-patrimonio-cuite/registro-do-caso.md);
 - [`CASO-02-mapa-vivo-patrimonio-cuite/pendencias-continuidade.md`](CASO-02-mapa-vivo-patrimonio-cuite/pendencias-continuidade.md).
 
-## 9. Materiais do curso
+## 8. Materiais do curso
 
 Os materiais da disciplina incluem referências de estudo, roteiros, documentos de apoio, arquivos de atividades, versões de entrega e materiais externos.
 
@@ -182,7 +168,7 @@ Exemplos já identificados:
 | `InfoGene_AdverGame.html` | protótipo ou referência de InfoGene/AdverGame |
 | `conversa_Davincente_Mayra.docx` | conversa completa da Oficina OAF com Davincente |
 
-## 10. Softwares, plataformas e tecnologias
+## 9. Softwares, plataformas e tecnologias
 
 O inventário aplicado está em:
 
@@ -190,7 +176,7 @@ O inventário aplicado está em:
 
 Esse arquivo distingue ferramentas estudadas, usadas, propostas ou apenas referenciadas, incluindo Scratch, Python, MIT App Inventor, HTML, CSS, JavaScript, Heyzine, WordPress, GitHub, QR Code, Web App, GPS, WebAR e Canva.
 
-## 11. Arquivos principais do repositório
+## 10. Arquivos principais do repositório
 
 - [`CONTINUIDADE.md`](CONTINUIDADE.md) — estado atual e próximos passos.
 - [`FINALIZACAO_E_ENTREGA.md`](FINALIZACAO_E_ENTREGA.md) — checklist de fechamento e entrega.
@@ -200,7 +186,7 @@ Esse arquivo distingue ferramentas estudadas, usadas, propostas ou apenas refere
 - [`CASO-02-modelagem-psicossocial/README.md`](CASO-02-modelagem-psicossocial/README.md) — índice da Atividade 2 / CASO-02.
 - [`CASO-02-mapa-vivo-patrimonio-cuite/README.md`](CASO-02-mapa-vivo-patrimonio-cuite/README.md) — índice atual da Atividade 3 / CASO-03.
 
-## 12. O que ainda será complementado
+## 11. O que ainda será complementado
 
 - eventual renomeação da pasta da Oficina OAF para alinhar com a numeração CASO-03;
 - publicação dos arquivos finais da Oficina OAF na plataforma FelizCidade;
