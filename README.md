@@ -68,7 +68,7 @@ O foco não é copiar integralmente o curso, mas registrar:
 | Atividade | Caso | Descrição | Pasta |
 |---|---|---|---|
 | Atividade 1 | CASO-01 — Cartilha digital e publicação Web | Enriquecimento digital da cartilha *Vamos conversar?*, com publicação em flipbook, componentes Web, links complementares e post de processo. | [`CASO-01-cartilha-computacao`](CASO-01-cartilha-computacao/) |
-| Atividade 2 | CASO-02 — Atividade de Modelagem Psicossocial | Modelagem de riscos psicossociais no trabalho, com uso de variáveis numéricas, cenário matemático e proposta de calculadora/interação computacional. | em organização |
+| Atividade 2 | CASO-02 — Atividade de Modelagem Psicossocial | Modelagem de riscos psicossociais no trabalho, com uso de variáveis numéricas, cenário matemático e proposta de calculadora/interação computacional. | [`CASO-02-modelagem-psicossocial`](CASO-02-modelagem-psicossocial/) |
 | Atividade 3 | CASO-03 — Oficina OAF com Davincente | Projeto **Mapa Vivo do Patrimônio de Cuité**, a partir da cartilha *Educação Patrimonial de Cuité: Conhecer para Preservar*, articulando encarte impresso, personagens, QR Code, Web App e mediação territorial. | [`CASO-02-mapa-vivo-patrimonio-cuite`](CASO-02-mapa-vivo-patrimonio-cuite/) |
 
 > Observação: a pasta atualmente chamada `CASO-02-mapa-vivo-patrimonio-cuite` registra a Atividade 3. A renomeação para `CASO-03-mapa-vivo-patrimonio-cuite` pode ser feita em etapa posterior, se for conveniente preservar a numeração das atividades no nome das pastas.
@@ -112,7 +112,7 @@ https://mc.xyz.mat.br/2026/07/28/atividade-cartilha-vamos-conversar-computacao/
 
 ## 7. Atividade 2 / CASO-02 — Atividade de Modelagem Psicossocial
 
-O CASO-02 será organizado a partir da **Atividade de Modelagem Psicossocial**, vinculada à Atividade 2 — Modelagem Computacional de Problemas, com o tema:
+O CASO-02 foi organizado a partir da **Atividade de Modelagem Psicossocial**, vinculada à Atividade 2 — Modelagem Computacional de Problemas, com o tema:
 
 ```text
 Calculando os riscos psicossociais da sua jornada de trabalho
@@ -130,6 +130,11 @@ Elementos identificados nos materiais:
 - modelo matemático;
 - cenário de simulação;
 - proposta de calculadora ou teste interativo.
+
+Arquivos principais:
+
+- [`CASO-02-modelagem-psicossocial/README.md`](CASO-02-modelagem-psicossocial/README.md);
+- [`CASO-02-modelagem-psicossocial/registro-do-caso.md`](CASO-02-modelagem-psicossocial/registro-do-caso.md).
 
 Materiais relacionados:
 
@@ -192,11 +197,11 @@ Esse arquivo distingue ferramentas estudadas, usadas, propostas ou apenas refere
 - [`SOFTWARES_E_FERRAMENTAS.md`](SOFTWARES_E_FERRAMENTAS.md) — inventário de softwares, plataformas e tecnologias.
 - [`RIGHTS_AND_PROVENANCE.md`](RIGHTS_AND_PROVENANCE.md) — política de direitos e proveniência, mantida como apoio quando necessário.
 - [`CASO-01-cartilha-computacao/README.md`](CASO-01-cartilha-computacao/README.md) — índice do CASO-01.
+- [`CASO-02-modelagem-psicossocial/README.md`](CASO-02-modelagem-psicossocial/README.md) — índice da Atividade 2 / CASO-02.
 - [`CASO-02-mapa-vivo-patrimonio-cuite/README.md`](CASO-02-mapa-vivo-patrimonio-cuite/README.md) — índice atual da Atividade 3 / CASO-03.
 
 ## 12. O que ainda será complementado
 
-- organização da Atividade 2 / CASO-02 em pasta própria;
 - eventual renomeação da pasta da Oficina OAF para alinhar com a numeração CASO-03;
 - publicação dos arquivos finais da Oficina OAF na plataforma FelizCidade;
 - envio dos links ao professor;
