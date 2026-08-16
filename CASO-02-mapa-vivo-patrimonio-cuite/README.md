@@ -7,9 +7,11 @@
 **Responsável:** Mayra Clara  
 **Natureza:** projeto acadêmico, registro de processo e protótipo conceitual de Obra Artesanal Figital  
 
+> Observação de organização: embora esta pasta esteja nomeada como `CASO-02-mapa-vivo-patrimonio-cuite`, este caso corresponde à **Atividade 3 / CASO-03 — Oficina OAF com Davincente**. A renomeação da pasta poderá ser feita posteriormente, sem comprometer a entrega atual.
+
 ## 1. Identificação acadêmica
 
-Este diretório reúne os arquivos públicos curados do **CASO-02 — Mapa Vivo do Patrimônio de Cuité**, desenvolvido no contexto da **Oficina OAF com Davincente**, atividade da disciplina **Introdução à Computação** do curso de **Bacharelado em Meteorologia — UFCG**.
+Este diretório reúne os arquivos públicos curados do **Mapa Vivo do Patrimônio de Cuité**, desenvolvido no contexto da **Oficina OAF com Davincente**, atividade da disciplina **Introdução à Computação** do curso de **Bacharelado em Meteorologia — UFCG**.
 
 A atividade propõe a criação de uma **OAF — Obra Artesanal Figital**, articulando uma obra física/artesanal ou editorial, interfaces sensoriais, ações do fruidor e um InfoGene capaz de produzir respostas digitais ou figitais.
 
@@ -50,7 +52,39 @@ A cartilha apresenta conteúdos voltados à valorização da memória cultural c
 
 O encarte da cartilha contém um mapa ilustrado dos bens materiais de Cuité tombados até 2025, organizados por pontos numerados e representações visuais dos edifícios e locais patrimoniais.
 
-## 5. ArtGene
+### Links públicos relacionados
+
+Cartilha digital em Heyzine:
+
+```text
+https://heyzine.com/flip-book/cb9be3b424.html
+```
+
+O link acima registra a versão digital da cartilha de educação patrimonial usada como obra-base do projeto OAF.
+
+## 5. Encarte da cartilha
+
+O encarte impresso é o núcleo editorial e territorial do projeto. Ele apresenta o mapa dos bens materiais tombados de Cuité até 2025 e serve como ponto de partida para a experiência figital.
+
+Materiais visuais do encarte:
+
+```text
+status: a localizar e disponibilizar
+prazo previsto: até 17/08/2026
+```
+
+A disponibilização futura poderá incluir:
+
+- imagem da frente do encarte;
+- imagem do verso do encarte;
+- detalhe do mapa dos bens materiais tombados;
+- detalhe dos personagens Coytelino e Tarairiú;
+- registro visual do QR Code atual da cartilha;
+- eventuais imagens de teste do QR Code adesivo ou da proposta de camada digital.
+
+Esses materiais complementam a documentação visual do caso, mas não impedem a finalização da entrega acadêmica atual na plataforma FelizCidade.
+
+## 6. ArtGene
 
 **[H] O ArtGene é o encarte impresso da cartilha.**
 
@@ -82,7 +116,7 @@ Lacuna preservada:
 
 Embora o encarte tenha produção editorial, visual e territorial autoral, ainda deverá ser investigado como sua matéria, técnica, acabamento ou processo de produção se relacionam com a dimensão artesanal proposta pelo conceito de ArtGene.
 
-## 6. Performance
+## 7. Performance
 
 **[H] A Performance central é a mediação territorial por meio do mapa.**
 
@@ -105,7 +139,7 @@ O ato significativo está na relação entre:
 representação editorial + patrimônio + território vivido
 ```
 
-## 7. InfoGene
+## 8. InfoGene
 
 **[H] O InfoGene inicial será um Web App ou página Web complementar.**
 
@@ -130,7 +164,7 @@ Limites assumidos:
 [?] Memória persistente depende de decisão futura sobre registros do fruidor.
 ```
 
-## 8. Arquitetura da Simbiose Figital
+## 9. Arquitetura da Simbiose Figital
 
 Trilha principal:
 
@@ -148,7 +182,30 @@ Trilha principal:
 
 A OAF deve permanecer significativa mesmo sem realidade aumentada, memória persistente ou personagens procedurais.
 
-## 9. Valores produzidos
+## 10. Personagens Coytelino e Tarairiú
+
+Coytelino e Tarairiú são tratados como mediadores da experiência, não apenas como elementos decorativos. No projeto OAF, eles devem provocar ações do fruidor, tais como observar, comparar, localizar, visitar, registrar ou refletir sobre um bem patrimonial.
+
+Materiais de desenvolvimento dos personagens:
+
+```text
+status: a localizar e disponibilizar
+prazo previsto: até 17/08/2026
+```
+
+Materiais previstos para documentação posterior:
+
+- imagens dos personagens;
+- testes visuais realizados no Canva;
+- vídeos ou animações de desenvolvimento;
+- variações de expressão, postura ou mediação;
+- registros de uso dos personagens como fundo, camada visual ou elemento de interação;
+- análise de consistência gráfica e narrativa;
+- decisão sobre quais materiais podem ser publicados e quais devem permanecer como processo interno.
+
+Essa documentação complementar permanece em aberto e será adicionada posteriormente. A pendência não impede a entrega atual do Projeto OAF e da conversa completa com Davincente na plataforma FelizCidade.
+
+## 11. Valores produzidos
 
 ### Valor educacional
 
@@ -172,7 +229,7 @@ Utilizar esta OAF como piloto de uma infraestrutura editorial-figital reutilizá
 - valor informacional, caso o sistema passe a receber registros dos fruidores;
 - valor científico e ambiental, caso a experiência evolua futuramente para integração com dados do Scanner do Tempo.
 
-## 10. Lacunas preservadas [?]
+## 12. Lacunas preservadas [?]
 
 As lacunas abaixo permanecem abertas por decisão metodológica e não devem ser preenchidas artificialmente nesta etapa:
 
@@ -189,7 +246,7 @@ As lacunas abaixo permanecem abertas por decisão metodológica e não devem ser
 - arquitetura tecnológica definitiva do Web App;
 - personagens procedurais e consistentes como linha futura de pesquisa.
 
-## 11. Materiais do caso
+## 13. Materiais do caso
 
 | Arquivo | Função |
 |---|---|
@@ -201,16 +258,17 @@ Materiais ainda pendentes:
 
 - conversa completa com Davincente;
 - folha de rosto da conversa;
-- eventuais arquivos ou registros dos personagens animados feitos no Canva;
+- imagens do encarte da cartilha;
+- imagens, vídeos e testes de desenvolvimento dos personagens Coytelino e Tarairiú;
 - eventual demonstração reduzida de QR/Web App/GPS/WebAR.
 
-## 12. Autoria e proveniência
+## 14. Autoria e proveniência
 
 Este caso foi desenvolvido por **Mayra Clara** no contexto da disciplina **Introdução à Computação**.
 
 A obra-base pertence ao ecossistema editorial da **MC² Edições** e foi utilizada aqui como referência autoral e acadêmica para desenvolvimento de uma proposta figital.
 
-O repositório público apresenta uma versão curada para acompanhamento e avaliação acadêmica. Materiais internos da MC², arquivos brutos, dados pessoais, documentos de terceiros, PDFs de aula e fontes reservadas não devem ser publicados automaticamente.
+O repositório público apresenta uma versão curada para acompanhamento e avaliação acadêmica. Materiais internos da MC² Edições, arquivos brutos, dados pessoais, documentos de terceiros, PDFs de aula e fontes reservadas não devem ser publicados automaticamente.
 
 Regra de proteção:
 
@@ -219,7 +277,7 @@ Drive preserva o acervo material da disciplina.
 GitHub público apresenta a versão curada para acompanhamento e avaliação.
 ```
 
-## 13. Horizonte de expansão
+## 15. Horizonte de expansão
 
 Os seguintes projetos aparecem apenas como horizontes futuros:
 
@@ -238,7 +296,7 @@ Mapa Vivo = núcleo da Oficina OAF.
 Scanner do Tempo = horizonte de expansão, não componente necessário da entrega.
 ```
 
-## 14. Status da entrega
+## 16. Status da entrega
 
 Estado atual:
 
@@ -257,6 +315,6 @@ Falta operacionalmente:
 2. criar folha de rosto da conversa;
 3. revisar nomes finais dos arquivos;
 4. revisar se o pacote contém apenas o que a atividade pede;
-5. decidir se os personagens animados do Canva entram agora ou permanecem como pendência.
+5. disponibilizar posteriormente imagens do encarte e materiais de desenvolvimento dos personagens, com previsão até 17/08/2026.
 
 A **Carta OAF 2.0** não será gerada nesta etapa, pois ainda existem lacunas conceituais e operacionais que devem ser amadurecidas após a entrega do Projeto OAF.
