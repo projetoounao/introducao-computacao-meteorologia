@@ -37,7 +37,6 @@ Scanner do Tempo = horizonte de expansão, não componente necessário da entreg
 |---|---|
 | `projeto-oaf-mapa-vivo-patrimonio-cuite.md` | versão de entrega acadêmica do Projeto OAF |
 | `registro-do-caso.md` | registro público curado do contexto, decisões e desenvolvimento do caso |
-| `mensagem-professor.md` | rascunho de mensagem para envio ao professor |
 | `pendencias-continuidade.md` | pendências para finalizar a tarefa |
 
 ## 4. Formulação sintética
