@@ -16,6 +16,14 @@ G:\Meu Drive\3_PESQUISAS\UFCG_METEOROLOGIA\BIBLIOTECA_METEOROLOGIA\Computação
 
 Essa pasta do Drive funciona como **fonte material acadêmica reservada**. Este repositório público não é uma cópia integral automática do Drive; ele reúne os materiais que já foram curados para acompanhamento, avaliação e continuidade da disciplina.
 
+## Modelo de documentação
+
+Este repositório também contém uma primeira versão de modelo para futuros repositórios de disciplinas, cursos, oficinas e cadernos de estudos:
+
+- [`MODELO_README_DISCIPLINA.md`](MODELO_README_DISCIPLINA.md) — modelo inicial de README para repositórios de disciplina.
+
+O modelo inclui campos para identificação acadêmica, ementa, objetivos, conteúdos, materiais, direitos e proveniência, softwares, ferramentas, referências digitais, exercícios selecionados, soluções, anotações e conexões com projetos pessoais ou editoriais.
+
 ## Casos organizados até agora
 
 | Caso | Descrição | Pasta |
@@ -60,6 +68,7 @@ objeto editorial → escolha humana → mediação digital → território → o
 ## Arquivos principais
 
 - [`CONTINUIDADE.md`](CONTINUIDADE.md) — estado atual e próximos passos.
+- [`MODELO_README_DISCIPLINA.md`](MODELO_README_DISCIPLINA.md) — modelo inicial de README para disciplinas.
 - [`CASO-01-cartilha-computacao/README.md`](CASO-01-cartilha-computacao/README.md) — índice do CASO-01.
 - [`CASO-02-mapa-vivo-patrimonio-cuite/README.md`](CASO-02-mapa-vivo-patrimonio-cuite/README.md) — índice do CASO-02.
 - [`CASO-02-mapa-vivo-patrimonio-cuite/projeto-oaf-mapa-vivo-patrimonio-cuite.md`](CASO-02-mapa-vivo-patrimonio-cuite/projeto-oaf-mapa-vivo-patrimonio-cuite.md) — Projeto OAF de entrega.
@@ -69,7 +78,8 @@ objeto editorial → escolha humana → mediação digital → território → o
 - conversa completa com Davincente;
 - arquivos ou registros dos personagens animados feitos no Canva, se forem adequados para compartilhamento;
 - eventual demonstração de QR/Web App/GPS/WebAR;
-- revisão final antes da entrega completa.
+- revisão final antes da entrega completa;
+- refinamento do modelo de README com base em novas disciplinas e cursos.
 
 ## Regra de publicação
 
