@@ -42,6 +42,20 @@ O repositório público não é um espelho da pasta de estudo.
 Ele é uma vitrine acadêmica curada, documentada e responsável.
 ```
 
+## Softwares, plataformas e tecnologias
+
+Este repositório possui um inventário aplicado de softwares, plataformas e tecnologias usados, estudados, referenciados ou propostos ao longo da disciplina:
+
+- [`SOFTWARES_E_FERRAMENTAS.md`](SOFTWARES_E_FERRAMENTAS.md) — inventário inicial distinguindo ferramentas de estudo, ferramentas utilizadas, infraestrutura e tecnologias propostas.
+
+Regra central:
+
+```text
+Ferramenta citada não é ferramenta dominada.
+Ferramenta estudada não é ferramenta usada.
+Ferramenta usada em protótipo não é necessariamente ferramenta institucionalizada.
+```
+
 ## Casos organizados até agora
 
 | Caso | Descrição | Pasta |
@@ -87,6 +101,7 @@ objeto editorial → escolha humana → mediação digital → território → o
 
 - [`CONTINUIDADE.md`](CONTINUIDADE.md) — estado atual e próximos passos.
 - [`RIGHTS_AND_PROVENANCE.md`](RIGHTS_AND_PROVENANCE.md) — política de direitos, permissões e proveniência.
+- [`SOFTWARES_E_FERRAMENTAS.md`](SOFTWARES_E_FERRAMENTAS.md) — inventário de softwares, plataformas e tecnologias.
 - [`CASO-01-cartilha-computacao/README.md`](CASO-01-cartilha-computacao/README.md) — índice do CASO-01.
 - [`CASO-02-mapa-vivo-patrimonio-cuite/README.md`](CASO-02-mapa-vivo-patrimonio-cuite/README.md) — índice do CASO-02.
 - [`CASO-02-mapa-vivo-patrimonio-cuite/projeto-oaf-mapa-vivo-patrimonio-cuite.md`](CASO-02-mapa-vivo-patrimonio-cuite/projeto-oaf-mapa-vivo-patrimonio-cuite.md) — Projeto OAF de entrega.
