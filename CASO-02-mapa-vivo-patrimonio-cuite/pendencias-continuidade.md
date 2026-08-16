@@ -1,63 +1,76 @@
-# CASO-02 — Pendências e continuidade
+# Continuidade pós-entrega — Mapa Vivo do Patrimônio de Cuité
 
-**Data:** 2026-08-15  
-**Estado:** ponto de continuação para finalizar a atividade  
-**Atividade:** Oficina OAF com Davincente
+**Data de atualização:** 2026-08-16  
+**Estado:** atividade entregue na plataforma FelizCidade  
+**Atividade:** Oficina OAF com Davincente  
+**Projeto:** Mapa Vivo do Patrimônio de Cuité
 
-## 1. Estado de hoje
+## 1. Estado pós-entrega
 
-O projeto **Mapa Vivo do Patrimônio de Cuité** foi estruturado como Projeto OAF de entrega.
+A atividade **Criando com Davincente** foi entregue na plataforma FelizCidade e o professor foi avisado.
 
-Já estão organizados:
+Foram enviados como arquivos de entrega:
 
-- registro público do caso;
-- versão de entrega do Projeto OAF;
-- mensagem ao professor;
-- repositório público da disciplina;
-- distinção entre CASO-01 e CASO-02;
-- delimitação do Scanner do Tempo como horizonte, não como núcleo da entrega.
+1. Projeto OAF em PDF/ODF;
+2. fonte textual em Markdown (`.md`);
+3. conversa completa com Davincente em Word.
 
-## 2. Pendências para amanhã
+A versão `REV` do Projeto OAF passa a ser considerada a versão final de entrega acadêmica.
 
-1. Organizar a conversa completa com Davincente.
-2. Verificar arquivos/animações dos personagens Coytelino e Tarairiú feitos no Canva.
-3. Decidir se esses arquivos serão anexados, descritos ou apenas mencionados.
-4. Revisar o Projeto OAF antes do envio final.
-5. Conferir se há links quebrados no repositório público.
-6. Avaliar se haverá prova funcional mínima com QR/Web App/GPS/WebAR.
-7. Completar o pacote final da atividade.
+## 2. Encarte recebido
 
-## 3. Arquivos dos personagens
+O encarte/folder da cartilha **Educação Patrimonial de Cuité: Conhecer para Preservar** foi localizado e anexado ao processo de documentação em 16/08/2026.
 
-A autora informou que possui arquivos/animações dos personagens no Canva, mas a revisão desses materiais ficou aberta porque a visão estava cansada no encerramento do trabalho de hoje.
-
-Registro:
+Arquivo de referência recebido:
 
 ```text
-[?] arquivos/animações de Coytelino e Tarairiú no Canva serão avaliados amanhã.
-[?] ainda não foi decidido se entram como anexos, imagens de referência, descrição textual ou linha futura.
+FOLDER Cartilha Educação Patrimonial versão 23-01-2026 - e-book A5 (29.7 x 21 cm) (2).pdf
 ```
 
-## 4. Conversa com Davincente
+Conteúdo visual registrado:
 
-A conversa completa com Davincente é parte obrigatória da entrega da atividade.
+- frente do folder com apresentação da cartilha digital;
+- QR Code de acesso à cartilha;
+- personagens Coytelino e Tarairiú;
+- créditos da obra e instituições apoiadoras;
+- verso do folder com o **Mapa dos bens materiais de Cuité tombados até 2025**;
+- pontos patrimoniais numerados de 1 a 10;
+- chamada de mediação patrimonial: leitura, compartilhamento e cuidado com o patrimônio.
 
-Estado atual:
+O encarte confirma materialmente o ArtGene adotado no Projeto OAF.
+
+## 3. Situação das antigas pendências
+
+| Item | Situação pós-entrega |
+|---|---|
+| Organizar conversa completa com Davincente | concluído para entrega |
+| Revisar Projeto OAF | concluído na versão REV |
+| Enviar atividade na FelizCidade | concluído |
+| Avisar professor | concluído |
+| Localizar encarte | concluído |
+| Personagens/animações do Canva | continuidade futura |
+| Prova funcional QR/Web App/GPS/WebAR | continuidade futura |
+| Imagens públicas no README | continuidade futura, mediante curadoria |
+| Reorganização CASO-02/CASO-03 | continuidade documental |
+
+## 4. Continuidade futura
+
+A partir deste ponto, as pendências deixam de ser condição de entrega e passam a ser continuidade pós-entrega.
+
+Próximas ações possíveis:
+
+1. decidir se a pasta será renomeada para `ATIVIDADE-03_CASO-03-mapa-vivo-patrimonio-cuite` ou `CASO-03-mapa-vivo-patrimonio-cuite`;
+2. atualizar links internos após eventual renomeação;
+3. criar subpastas `projeto/`, `processo/`, `assets/` e `prototipo/`, se o caso continuar evoluindo;
+4. selecionar uma imagem principal do encarte para uso no README;
+5. separar materiais públicos dos materiais internos da MC² Edições;
+6. registrar personagens Coytelino e Tarairiú como materiais de continuidade visual;
+7. criar, se necessário, uma prova funcional mínima de QR/Web App/GPS/WebAR.
+
+## 5. Regra de continuidade
 
 ```text
-[?] conversa completa ainda precisa ser reunida e organizada.
-```
-
-Critério:
-
-```text
-Não apagar mudanças de direção, dúvidas, discordâncias ou decisões intermediárias.
-```
-
-## 5. Regra para a finalização
-
-```text
-Finalizar o suficiente para cumprir a atividade.
-Não fechar artificialmente lacunas conceituais.
-Manter [H], [D] e [?] visíveis.
+A entrega acadêmica está encerrada.
+As ações seguintes pertencem à documentação, curadoria e evolução pós-entrega.
+Não reabrir o conteúdo conceitual do Projeto OAF sem necessidade.
 ```
