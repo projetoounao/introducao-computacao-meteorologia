@@ -7,8 +7,6 @@
 **Responsável:** Mayra Clara  
 **Natureza:** projeto acadêmico, registro de processo e protótipo conceitual de Obra Artesanal Figital  
 
-> Observação de organização: embora esta pasta esteja nomeada como `CASO-02-mapa-vivo-patrimonio-cuite`, este caso corresponde à **Atividade 3 — Oficina OAF com Davincente**. A correção da numeração do diretório passa a ser uma ação documental pós-entrega.
-
 ## 1. Identificação acadêmica
 
 Este diretório reúne os arquivos públicos curados do **Mapa Vivo do Patrimônio de Cuité**, desenvolvido no contexto da **Oficina OAF com Davincente**, atividade da disciplina **Introdução à Computação** do curso de **Bacharelado em Meteorologia — UFCG**.
@@ -267,8 +265,7 @@ Materiais de continuidade:
 
 - imagens públicas do encarte, após curadoria;
 - imagens, vídeos e testes de desenvolvimento dos personagens Coytelino e Tarairiú;
-- eventual demonstração reduzida de QR/Web App/GPS/WebAR;
-- reorganização documental da pasta para corrigir CASO-02/CASO-03.
+- eventual demonstração reduzida de QR/Web App/GPS/WebAR.
 
 ## 15. Autoria e proveniência
 
@@ -310,10 +307,8 @@ A entrega acadêmica está encerrada. As ações seguintes pertencem à document
 
 Ações futuras possíveis:
 
-1. corrigir a numeração do diretório e dos links internos;
-2. decidir a convenção final entre `CASO-03-mapa-vivo-patrimonio-cuite` e `ATIVIDADE-03_CASO-03-mapa-vivo-patrimonio-cuite`;
-3. selecionar uma imagem principal do encarte para o README;
-4. criar subpastas `projeto/`, `processo/`, `assets/` e `prototipo/`, se o caso continuar evoluindo;
-5. separar materiais públicos dos materiais internos da MC² Edições;
-6. registrar personagens Coytelino e Tarairiú como continuidade visual;
-7. criar, se necessário, uma prova funcional mínima de QR/Web App/GPS/WebAR.
+1. selecionar uma imagem principal do encarte para o README;
+2. criar subpastas `projeto/`, `processo/`, `assets/` e `prototipo/`, se o caso continuar evoluindo;
+3. separar materiais públicos dos materiais internos da MC² Edições;
+4. registrar personagens Coytelino e Tarairiú como continuidade visual;
+5. criar, se necessário, uma prova funcional mínima de QR/Web App/GPS/WebAR.
