@@ -51,7 +51,7 @@ O encarte confirma materialmente o ArtGene adotado no Projeto OAF.
 | Personagens/animações do Canva | continuidade futura |
 | Prova funcional QR/Web App/GPS/WebAR | continuidade futura |
 | Imagens públicas no README | continuidade futura, mediante curadoria |
-| Reorganização CASO-02/CASO-03 | continuidade documental |
+| Reorganização da modelagem psicossocial como atividade extra | concluído no repositório público |
 
 ## 4. Continuidade futura
 
@@ -59,13 +59,12 @@ A partir deste ponto, as pendências deixam de ser condição de entrega e passa
 
 Próximas ações possíveis:
 
-1. decidir se a pasta será renomeada para `ATIVIDADE-03_CASO-03-mapa-vivo-patrimonio-cuite` ou `CASO-03-mapa-vivo-patrimonio-cuite`;
-2. atualizar links internos após eventual renomeação;
-3. criar subpastas `projeto/`, `processo/`, `assets/` e `prototipo/`, se o caso continuar evoluindo;
-4. selecionar uma imagem principal do encarte para uso no README;
-5. separar materiais públicos dos materiais internos da MC² Edições;
-6. registrar personagens Coytelino e Tarairiú como materiais de continuidade visual;
-7. criar, se necessário, uma prova funcional mínima de QR/Web App/GPS/WebAR.
+1. selecionar uma imagem principal do encarte para uso no README;
+2. criar subpastas `projeto/`, `processo/`, `assets/` e `prototipo/`, se o caso continuar evoluindo;
+3. separar materiais públicos dos materiais internos da MC² Edições;
+4. registrar personagens Coytelino e Tarairiú como materiais de continuidade visual;
+5. criar, se necessário, uma prova funcional mínima de QR/Web App/GPS/WebAR;
+6. limpar a pasta antiga `CASO-02-modelagem-psicossocial`, somente se houver autorização explícita para apagar os arquivos antigos.
 
 ## 5. Regra de continuidade
 
